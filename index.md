@@ -29,11 +29,12 @@ technical leader in Zienon, LLC.
 
 # News
 * `03.2019` Our paper is accepted to CVPR 2019. 
+* `07.2018` Our paper is accepted to ECCV 2018. 
 * `01.2018` I join CVLab of EPFL in Switzerland as a postdoctoral researcher.
 * `12.2017` I pass the oral defence of my Ph.D dissertation.
 * `12.2017` Our paper is accepted to IVC.
 * `05.2017` Our paper is accepted to T-CSVT.
-* `03.2017` Our paper is accepted to CVPR 2017.
+* `03.2017` Our paper is accepted to CVPR 2017. (in [OpenCV](https://opencv.org/) now)
 * `10.2016` I am elected as the 'Outstanding Ph.D. Candidate' of Xidian University.
 * `08.2016` I win the 'Doctoral National Scholarship 2016' of China.
 * `02.2016` Our paper is accepted to CVPR 2016. (Oral spotlight)
@@ -49,9 +50,9 @@ technical leader in Zienon, LLC.
 # Publications
 
 * **Yinlin Hu**, Joachim Hugonot, Pascal Fua, Mathieu Salzmann. Segmentation-driven 6D Object Pose Estimation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [\[Code\]](https://github.com/cvlab-epfl/segmentation-driven-pose)
+* Zheng Dang, Kwang Moo Yi, **Yinlin Hu**, Fei Wang, Pascal Fua, Mathieu Salzmann. Eigendecomposition-Free Training of Deep Networks with Zero Eigenvalue-Based Losses. European Conference on Computer Vision (ECCV), pp. 792-807, 2018 [\[Code\]](https://github.com/Dangzheng/Eig-Free-release)
 * **Yinlin Hu**, Yunsong Li, Rui Song, Peng Rao, Yangli Wang. Minimum barrier superpixel segmentation. Image Vision Computing. Vol. 70, pp. 1-10, 2018 [\[Code\]](https://github.com/YinlinHu/MBS)
 * Yunsong Li, **Yinlin Hu**, Rui Song, Peng Rao, Yangli Wang. Coarse-to-Fine PatchMatch for Dense Correspondence. IEEE Transactions on Circuits System and Video Technique. Vol. 28, Nr. 9, pp. 2233-2245, 2018 [\[Code\]](https://github.com/YinlinHu/CPM)
-* Zheng Dang, Kwang Moo Yi, **Yinlin Hu**, Fei Wang, Pascal Fua, Mathieu Salzmann. Eigendecomposition-Free Training of Deep Networks with Zero Eigenvalue-Based Losses. European Conference on Computer Vision (ECCV), pp. 792-807, 2018 [\[Code\]](https://github.com/Dangzheng/Eig-Free-release)
 * **Yinlin Hu**, Yunsong Li, Rui Song. Robust Interpolation of Correspondences for Large Displacement Optical Flow. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 4791-4799, 2017 [\[Code\]](https://github.com/YinlinHu/Ric)
 * **Yinlin Hu**, Rui Song, Yunsong Li, Peng Rao, Yangli Wang. Highly accurate optical flow estimation on superpixel tree. Image Vision Computing, Vol. 52, pp. 167-177, 2016
 * **Yinlin Hu**, Rui Song, Yunsong Li. Efficient Coarse-to-Fine Patch Match for Large Displacement Optical Flow. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 5704-5712, 2016 [\[Code\]](https://github.com/YinlinHu/CPM)
