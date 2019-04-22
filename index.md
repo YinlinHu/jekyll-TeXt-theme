@@ -8,7 +8,7 @@ aside:
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
-Currently, I am a postdoctoral researcher in [Computer Vision Lab](https://cvlab.epfl.ch) of [EPFL](https://www.epfl.ch/),
+I am a postdoctoral researcher in [Computer Vision Lab](https://cvlab.epfl.ch) of [EPFL](https://www.epfl.ch/),
 collaborated with [Pascal Fua](http://people.epfl.ch/pascal.fua) and [Mathieu Salzmann](http://people.epfl.ch/mathieu.salzmann). The research areas that I involved and
 interested include optical flow, motion analysis, and object pose
 estimation. In 2017, I completed my Ph.D. degree from Xidian
@@ -37,7 +37,7 @@ technical leader in Zienon, LLC.
 * `03.2017` Our paper is accepted to CVPR 2017. (in [OpenCV](https://opencv.org/) now)
 * `10.2016` I am elected as the 'Outstanding Ph.D. Candidate' of Xidian University.
 * `08.2016` I win the 'Doctoral National Scholarship 2016' of China.
-* `02.2016` Our paper is accepted to CVPR 2016. (Oral spotlight)
+* `02.2016` Our paper is accepted to CVPR 2016. (**spotlight**)
 * `01.2016` I get married with my wife who gives me all her encouragement. 
 * `10.2015` Our paper is accepted to IVC.
 * `09.2014` I leave Zienon and start to pursue a Ph.D. degree at Xidian University.
