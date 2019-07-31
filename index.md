@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Yinlin Hu (胡银林）
+title: Yinlin Hu (胡银林)
 aside:
   toc: true
 ---
