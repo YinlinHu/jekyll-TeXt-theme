@@ -34,7 +34,7 @@ technical leader for nearly 4 years in Zienon, LLC.
 * `12.2017` I pass the oral defence of my Ph.D dissertation.
 * `12.2017` Our paper is accepted to IVC.
 * `05.2017` Our paper is accepted to T-CSVT.
-* `03.2017` Our paper is accepted to CVPR 2017. (in [OpenCV](https://opencv.org/) now)
+* `03.2017` Our paper is accepted to CVPR 2017. (**the code has been merged into [OpenCV](https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/src/sparse_match_interpolators.cpp)**)
 * `10.2016` I am elected as the 'Outstanding Ph.D. Candidate' of Xidian University.
 * `08.2016` I win the 'Doctoral National Scholarship 2016' of China.
 * `02.2016` Our paper is accepted to CVPR 2016. (**spotlight**)
