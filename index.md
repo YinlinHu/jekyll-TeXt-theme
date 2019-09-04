@@ -49,7 +49,7 @@ technical leader for nearly 4 years in Zienon, LLC.
 * `04.2011` I get my MA.Sc degree from Xidian University.
 
 # Publications
-* Wei Wang, Zheng Dang, **Yinlin Hu**, Pascal Fua, Mathieu Salzmann. **Backpropagation-Friendly Eigendecomposition**. Thirty-third Conference on Neural Information Processing Systems, 2019.
+* Wei Wang, Zheng Dang, **Yinlin Hu**, Pascal Fua, Mathieu Salzmann. **Backpropagation-Friendly Eigendecomposition**. Thirty-third Conference on Neural Information Processing Systems (NeurIPS), 2019.
 * **Yinlin Hu**, Joachim Hugonot, Pascal Fua, Mathieu Salzmann. **Segmentation-driven 6D Object Pose Estimation**. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [\[Code\]](https://github.com/cvlab-epfl/segmentation-driven-pose)
 * Zheng Dang, Kwang Moo Yi, **Yinlin Hu**, Fei Wang, Pascal Fua, Mathieu Salzmann. **Eigendecomposition-Free Training of Deep Networks with Zero Eigenvalue-Based Losses**. European Conference on Computer Vision (ECCV), pp. 792-807, 2018 [\[Code\]](https://github.com/Dangzheng/Eig-Free-release)
 * **Yinlin Hu**, Yunsong Li, Rui Song, Peng Rao, Yangli Wang. **Minimum barrier superpixel segmentation**. Image Vision Computing. Vol. 70, pp. 1-10, 2018 [\[Code\]](https://github.com/YinlinHu/MBS)
