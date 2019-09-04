@@ -28,7 +28,7 @@ technical leader for nearly 4 years in Zienon, LLC.
 </div>
 
 # News
-* `09.2019` Our code of RicFlow has been merged into [OpenCV](https://opencv.org). [\[Repo\]](https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/src/sparse_match_interpolators.cpp) 
+* `09.2019` The code of our RicFlow appeared in CVPR 2017 is merged into [OpenCV](https://opencv.org). [\[Repo\]](https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/src/sparse_match_interpolators.cpp) 
 * `09.2019` Our paper is accepted to NeurIPS 2019. 
 * `03.2019` Our paper is accepted to CVPR 2019. 
 * `07.2018` Our paper is accepted to ECCV 2018. 
