@@ -12,7 +12,7 @@ I am a postdoctoral researcher in [Computer Vision Lab](https://cvlab.epfl.ch) o
 collaborated with Prof. [Pascal Fua](http://people.epfl.ch/pascal.fua) and Dr. [Mathieu Salzmann](http://people.epfl.ch/mathieu.salzmann). The research areas that I involved and
 interested include optical flow, motion analysis, and object pose
 estimation. In 2017, I completed my Ph.D. degree from Xidian
-University under the supervision of Prof. [Yunsong Li](http://ipic.xidian.edu.cn) and Dr. [Rui Song](http://web.xidian.edu.cn/songrui/en/index.html). Before that, I have been working as a senior algorithm engineer and
+University under the supervision of Prof. [Yunsong Li](http://ipic.xidian.edu.cn) (李云松) and Dr. [Rui Song](http://web.xidian.edu.cn/songrui/en/index.html) (宋锐). Before that, I have been working as a senior algorithm engineer and
 technical leader for nearly 4 years in Zienon, LLC.
 
 [GoogleScholar](https://scholar.google.com/citations?user=dhmdaoQAAAAJ&hl=en), [GitHub](http://github.com/yinlinhu)
@@ -28,6 +28,7 @@ technical leader for nearly 4 years in Zienon, LLC.
 </div>
 
 # News
+* `03.2020` Our paper is accepted to CVPR 2020. 
 * `09.2019` The code of our RicFlow appeared in CVPR 2017 is merged into OpenCV. 
 * `09.2019` Our paper is accepted to NeurIPS 2019. 
 * `03.2019` Our paper is accepted to CVPR 2019. 
@@ -50,6 +51,7 @@ technical leader for nearly 4 years in Zienon, LLC.
 * `04.2011` I get my MA.Sc degree from Xidian University.
 
 # Publications
+* **Yinlin Hu**, Pascal Fua, Wei Wang, Mathieu Salzmann. Single-Stage 6D Object Pose Estimation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. [\[Code\]](https://github.com/cvlab-epfl/single-stage-pose)
 * Wei Wang, Zheng Dang, **Yinlin Hu**, Pascal Fua, Mathieu Salzmann. Backpropagation-Friendly Eigendecomposition. Thirty-third Conference on Neural Information Processing Systems (NeurIPS), 2019. [\[Code\]](https://github.com/WeiWangTrento/Backpropagation-Friendly-Eigendecomposition)
 * **Yinlin Hu**, Joachim Hugonot, Pascal Fua, Mathieu Salzmann. Segmentation-driven 6D Object Pose Estimation. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. [\[Code\]](https://github.com/cvlab-epfl/segmentation-driven-pose)
 * Zheng Dang, Kwang Moo Yi, **Yinlin Hu**, Fei Wang, Pascal Fua, Mathieu Salzmann. Eigendecomposition-Free Training of Deep Networks with Zero Eigenvalue-Based Losses. European Conference on Computer Vision (ECCV), pp. 792-807, 2018 [\[Code\]](https://github.com/Dangzheng/Eig-Free-release)
