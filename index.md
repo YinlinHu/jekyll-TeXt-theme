@@ -8,7 +8,7 @@ aside:
 <div class="gird-containre">
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
-I am a postdoctoral researcher in [CVLab](https://cvlab.epfl.ch) of [EPFL](https://www.epfl.ch/), Switzerland,
+I am a research scientist in [CVLab](https://cvlab.epfl.ch), [EPFL](https://www.epfl.ch/), Switzerland,
 collaborated with Prof. [Pascal Fua](http://people.epfl.ch/pascal.fua) and Dr. [Mathieu Salzmann](http://people.epfl.ch/mathieu.salzmann). The research areas that I involved and
 interested include optical flow, motion analysis, and object pose
 estimation. In 2017, I completed my Ph.D. degree from Xidian
