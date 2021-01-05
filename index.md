@@ -9,10 +9,10 @@ aside:
 <div class="grid grid--p-2">
 <div class="cell cell--12 cell--md-auto" markdown="1">
 I am a research scientist in [CVLab](https://cvlab.epfl.ch), [EPFL](https://www.epfl.ch/), Switzerland,
-collaborated with Prof. [Pascal Fua](http://people.epfl.ch/pascal.fua) and Dr. [Mathieu Salzmann](http://people.epfl.ch/mathieu.salzmann). The research areas that I involved and
+working with Prof. [Pascal Fua](http://people.epfl.ch/pascal.fua) and Dr. [Mathieu Salzmann](http://people.epfl.ch/mathieu.salzmann). The research areas that I involved and
 interested include optical flow, motion analysis, and object pose
 estimation. In 2017, I completed my Ph.D. degree from Xidian
-University under the supervision of Prof. [Yunsong Li](http://ipic.xidian.edu.cn) (李云松) and Dr. [Rui Song](http://web.xidian.edu.cn/songrui/en/index.html) (宋锐). Before that, I have been working as a senior algorithm engineer and
+University under the supervision of Prof. [Yunsong Li](http://ipic.xidian.edu.cn). Before that, I have been working as a senior algorithm engineer and
 technical leader for nearly 4 years in Zienon, LLC.
 
 [GoogleScholar](https://scholar.google.com/citations?user=dhmdaoQAAAAJ&hl=en), [GitHub](http://github.com/yinlinhu)
